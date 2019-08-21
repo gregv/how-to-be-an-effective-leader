@@ -5,6 +5,8 @@ _Thoughts on effective leadership that I've collected over the years_
 I try to be the best person that I can be - daily.  
 I am not good at everything, in fact, I can only claim to be an expert eater of food and drinker of coffee and beer.
 
+This is meant to be a unique and raw perspective on leadership.  It is crafted after both observing leaders that I admire, and trying to replicate that for myself.  I tried my best to write something that you've hopefully never read anywhere else.
+
 # Make, Teach, Learn
 _In that order, every day._
 Managers are transportation mediums for direction.  Leaders realize direction into outcomes into results.
