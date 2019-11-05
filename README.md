@@ -83,3 +83,30 @@ These creations may not hold a candle to someone more technical on your team who
 Mockup your vision.  You need to put in due diligence for your ideas and direction.  You cannot expect a sentence to describe
 everything you're looking for.  Create diagrams, photoshop a mockup, provide example output - do everything you can
 to fight the fact that humans are not good communicators, especially of technical content.  If you can't prototype, illustrate.
+
+
+# Innovation
+Every company wants to innovate, create innovative things, attract and retain people who want to do innovative stuff.  The truth is that you can't always be doing crazy and amazing things.
+
+What is innovation?  Look at this in terms of outcomes to answer this question.
+1. Patents - amazingly unique ideas that no one has thought about
+2. Products - trailblazing apps that people love to use and/or are backed by crazy innovative technology
+3. Process - the opposite of doing the same thing for 5 years
+
+When you define innovation for your company or team - how are you defining it?  The way you answer this question determines how you drive down the innovation road.
+
+
+Block out time for to have an opportunity to do something completely nuts...once or twice a year.  Encourage them to build creative things during their work week - every. single. day.  Don't delay people from fixing a broken process, prototype a better product, or experimenting to confirm to kill a product (from [HBR Ideacast: Episode 664](https://open.spotify.com/episode/7mXMOVn1883bFU4oPPR2Fa?si=kFdKiNkURR-G04WCbe3avw)).
+
+Create an open culture - be both a leader and a follower - you don't have better ideas than anyone else, you need to get them out of everyone else by asking refining questions, getting more into the weeds, make sure that every voice is heard.
+
+Include the right people - diversity is always a great idea: you need people with different viewpoints and backgrounds before you start anything (see WorkLife with Adam Grant - [The Daily Show's Secret to Creativity](https://open.spotify.com/episode/2CqhiW4559IbRPp4nJOuyk?si=ZLOrplfDR06gWVypyMWvfQ)).  You need to find (or create) tenacity around experimentation and diversity of thoughts.  Look for people who have volumnious ideas and also like to tinker with those ideas.  From the saying "don't mistake action for accomplishment" - don't mistake ideas for action.  A good balance of putting ideas into action is what you want to encourage.  People have to _want to be innovative_ and need _time to be innovative_.
+
+Focus on topics - free brainstorming creates breadth, but doesn't get anything done.  The ultimate trade-off from innovation is warm and fuzzy ideas and getting things done.  Sure, take time to brainstorm, but brainstorming by itself is not innovation.  Funnel brainstorms into documentation, refine those thoughts, use a lean canvas to put a dollar amount on the idea, experiment, deliver.  Focus on themes and topics, your job as a leader is to distill down the company's challenges and mission into themes for the team to feed from.
+
+Never, ever, ever, ever - ask for a blanket of "innovative ideas".  Innovative ideas come as a result of focus on a problem.  Work to define problems, and encourage innovative ideas around those specific things.  If you get an email that asks you to populate "innovative productivity-related ideas" - don't just forward this to your team.  Add your perspective, your problem statements, then ask the team to think about those or introduce their own.  Seed brainstorms, water them too - don't just throw things out and hope they stick.  See `Surprise your team` above.
+
+Encourage deep education in weak team areas - it's hard to come up with innovative ideas that aren't specific.  Answering the "how" of a problem is almost as important as the "why".  From a patentability standpoint, you need to dive into details to be considered by the USPTO.  
+
+Obtain or learn breadth - You need to know a little about a lot.  The more broadly you, or an aggregation of your team knows, the more you'll avoid wasting time building things that already exist.  Always try to tie innovation to existing teams and products.  Use Slack search, Confluence search, even Google search - read about what other teams are working on.  You rarely need to start a project with little knowledge - take some time to understand the landscape around you.
+
