@@ -59,13 +59,19 @@ Calibrate your understanding of technical challenges by asking questions and rev
 and intelligently speak about what your team has done and the work it plans to do.
 
 Surprise your team - do things for your team that are boring and let them know that you took care of it.  The last
-thing people want is mundane and meaningless work.  If you cannot eliminate it, trade of in taking the share of burden
-from your team.  This shows that you care and that you are also competent in handling some of the work.
+thing people want is mundane and meaningless work.  If you cannot eliminate it, _trade off_ in taking the share of burden
+from your team.  This shows that you care and that you are also competent in handling some of the work.  
 
 # Focus
 People love responsive replies.  It makes them feel like you care about them.  Always respond to emails with value
 and never only respond with "thank you".  When you provide meaningful communication it may mean that you stop sending emails and
 may mean that your team has less distractions.
+
+Instead of sending an email, determine what the right course of action should be:
+1. Pin something to a Slack channel
+2. Update documentation
+3. Create a User Story/Bug
+4. Add a calendar reminder
 
 
 
