@@ -119,3 +119,5 @@ Encourage deep education in weak team areas - it's hard to come up with innovati
 
 Obtain or learn breadth - You need to know a little about a lot.  The more broadly you, or an aggregation of your team knows, the more you'll avoid wasting time building things that already exist.  Always try to tie innovation to existing teams and products.  Use Slack search, Confluence search, even Google search - read about what other teams are working on.  You rarely need to start a project with little knowledge - take some time to understand the landscape around you.
 
+# Transparency
+_Coming soon_
