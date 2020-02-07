@@ -9,7 +9,10 @@ This is meant to be a unique and raw perspective on leadership.  It is crafted a
 
 # Make, Teach, Learn
 _In that order, every day._
-Managers are transportation mediums for direction.  Leaders realize direction into outcomes into results.
+
+**Managers** are transportation mediums for direction.  
+**Leaders** realize direction into outcomes into results.
+
 Make things that illustrate your vision. Make things that help you practice your craft.  Make things to show you can literally
 create value.  Make things to encourage others.  Make things to fail. Make things to learn. 
 
