@@ -158,6 +158,7 @@ Some examples of "instrumentation in leadership” can include:
 6. Demands of on-call
 7. Feedback from new hires
 8. Regular surveys
+
 Your job as a leader is to measure everything and use operational excellence concepts to find root cause, experiment, and improve.
 
 
@@ -166,13 +167,15 @@ Your job as a leader is to measure everything and use operational excellence con
 Disseminate what your team is working on, on a regular basis.  You likely work within a closed circle of people on projects, be sure to share status and milestones with the greater community to:
 1. Increase visibility for your team
 2. Seek external eyes for validation and review
-3. Provide knowledge
+3. Provide equal access to knowledge
+
 There are a lot of managers who keep their heads down with their eyes focused on initiatives.  You need to look up and look around once in awhile and outwardly listen and speak to a broader community.
 
 Don’t rely on a single email to inform.  Most people have a crazy number of email filters, emails get filled away, unread, and knowledge is lost.  If you are counting on an email to keep people up-to-date, you are living in 1999.  Directly Slacking with people is the best way to get information out there when you cannot meet in person.  You need to treat every communication as a marketing campaign.  It is not a fire-and-forget, but a fire-and-follow-up model.  [Humans have many information beams that hit their short-term memory](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two), you need to acknowledge this and revisit your information dissemination on a frequent basis to convert it into long-term memory.  [Track your impact by using Confluence](https://marketplace.atlassian.com/apps/28637/viewtracker-analytics-for-confluence?hosting=server&tab=overview), or other means to know who has read your documentation.  This will help you gauge how successful your information campaign was.
 
+Keep a changelog.  Version your communication in the same way that GitHub does.  Be able to illustrate how your communication has changed because of new information or from a new strategy.  Don't be afraid to maintain an archive of information.  People change.  Thoughts, goals, and strategies - those change too.  When information lineage is transparent, it allows for even more trust because you aren't hiding anything.
 
-Treat information flow as continuous.  Don’t wait until the end of the month, share what you know, when you know it.  Allow for people to self-select the information they receive, don’t dam the river of information.  “Trickle this down to your teams” isn’t effective, especially if the recipient doesn’t stay on top of their email or they are on vacation.  Blast information continuously to people who will care about it.  Use distribution lists with subscribe and unsubscribe features so that people can self-elect to receive different kinds of information, send that same email information to the corresponding Slack channel(s).  Remind everyone on regular intervals how they can keep up-to-date.
+Treat information flow as continuous.  Don’t wait until the end of the month, share what you know, when you know it.  Allow for people to self-select the information they receive, don’t dam the river of information.  “Trickle this down to your teams” isn’t effective, especially if the recipient doesn’t stay on top of their email or they are on vacation.  Blast information continuously to people who will care about it.  Use distribution lists with subscribe and unsubscribe features so that people can self-elect to receive different kinds of information, send that same email information to the corresponding Slack channel(s).  Remind *everyone* on regular intervals how they can keep up-to-date.
 
 
 Find the right periodicity for your periodicals.  [Chunk information together](https://en.wikipedia.org/wiki/Chunking_(psychology)), don’t spam, and allow for information discovery.  Look to kill emails that hold no value, specifically look at non-human emails that your team receives to understand why they exist and if they can be removed.  Your goal as a leader is to improve the signal-to-noise ratio of communication to your team.  Look to recommend digests, combining multiple emails, or splitting out communications to different channels.
