@@ -120,7 +120,7 @@ Encourage deep education in weak team areas - it's hard to come up with innovati
 Obtain or learn breadth - You need to know a little about a lot.  The more broadly you, or an aggregation of your team knows, the more you'll avoid wasting time building things that already exist.  Always try to tie innovation to existing teams and products.  Use Slack search, Confluence search, even Google search - read about what other teams are working on.  You rarely need to start a project with little knowledge - take some time to understand the landscape around you.
 
 # Information Transparency
-My motivation for this section was inspired by this TED talk [How to build a company where the best ideas win](https://youtu.be/HXbsVbFAczg).  I constantly look for new perspectives, radical on both sides of the spectrum, and this video has many elements of transparency that brought forth the ideas in this section.
+My motivation for this section was inspired by this TED talk on [How to build a company where the best ideas win](https://youtu.be/HXbsVbFAczg).  I constantly look for (disruptive) new perspectives, radical on both sides of the spectrum, and this video has many elements of transparency that brought forth the ideas in this section.
 
 > Being radically truthful and transparent with your colleagues and expecting your colleagues to be the same with you ensures that important issues are apparent instead of hidden. It also enforces good behavior and good thinking, because when you have to explain yourself, everyone can openly assess the merits of your logic.
 > 
@@ -143,24 +143,24 @@ Present agendas before meetings and talk through them in email or Slack.  Do not
 
 One-liner sentences are ripe for confusion and misunderstanding.  If you have to give a one-liner, be sure to point to additional documentation, or ask for follow-up questions.  As a leader, you need to realize that the amount of effort you put into communication is symbolic of the outcome.  Do not spend 30 seconds to quickly write an email or Slack message for a million-dollar project.  Effort is required in transparent and accurate communication.  Talk through your thought process.
 
-People see through verbose and dodging responses.  Humans are smart.  Unlike cabbage, humans have the ability to reason.  When you are asked a direct question, give a direct answer.  I know there is a balance between transparency and political, HR-friendly, positive responses, but your team deserves to know the truth.  When leaders provide continually provide canned responses, they lose integrity.  First, be sure you understand the question being asked by asking refining questions and seek first to understand.  Feel the room, understand if this is a tense time in your company, find an answer that is both truthful, detailed, and thoughtful.  When leaders take 5 minutes to answer a question, either their internal timer is not working correctly or they are purposefully wasting time (to prohibit other questions from being asked).  You should take time to formulate a response, provide a follow-up direction (talk to person X or check out page Y), and succinctly answer the question.  You may need to add an alternate explanations if you notice that your answer is not well-received.  [Be selectively vulnerable](https://hbr.org/2019/02/how-leaders-can-open-up-to-their-teams-without-oversharing).
+People see through verbose and dodging responses.  Humans are smart.  Unlike cabbage, humans have the ability to reason.  When you are asked a direct question, give a direct answer.  I know there is a balance between transparency and political, HR-friendly, positive responses, but your team deserves to know the truth.  When leaders continually provide canned responses, they lose integrity.  First, be sure you understand the question being asked by asking refining questions and seek first to understand.  Feel the room, understand if this is a tense time in your company, find an answer that is (1) truthful, (2) detailed, and (3) thoughtful.  When leaders take 5 minutes to answer a question, either their internal timer is not working correctly or they are purposefully wasting time (to prohibit other questions from being asked).  You should take time to formulate a response, provide a follow-up direction (e.g. talk to person X or check out page Y), and succinctly answer the question.  You may need to add an alternate explanations if you notice that your answer is not well-received.  [Be selectively vulnerable](https://hbr.org/2019/02/how-leaders-can-open-up-to-their-teams-without-oversharing).
 
-Be present in retrospectives.  Document stop, start, and continue along with your team.  Execute action items and report back to the team on your status.  Make people aware of the work you are doing to make your team and your company a better place to work.
+Be present in retrospectives.  Document stop, start, and continue along **with** your team.  Execute action items and report back to the team on your status.  Make people aware of the work you are doing to make your team and your company a better place to work.
 
 
 ## Data Collection
 
 > To enable this disciplined problem-solving behavior, we need to design our systems so that they are continually creating telemetry. High performers used a disciplined approach to solving problems, using production telemetry to understand possible contributing factors to focus their problem solving, as opposed to lower performers who would blindly reboot servers.
 >
-> Kim, Gene. The DevOps Handbook: . IT Revolution Press. Kindle Edition.
+> Kim, Gene. The DevOps Handbook: IT Revolution Press. Kindle Edition.
 
-Survey your team and share back your interpretation of surveys.  You should put in more time than your team takes to give meaningful feedback through (anonymous) surveys at regular intervals.  Summarize key patterns and actions, link survey outputs to initiatives and continue to remind everyone involved as you march forward.  Months later, hopefully after a successfully executed campaign, be sure to remind the team that you are working on this initiative or project because of survey feedback.
+Survey your team and share back your interpretation of surveys.  You should put in more time than your team takes to give meaningful feedback through (anonymous) surveys at regular intervals.  Summarize key patterns and actions, link survey outputs to initiatives and continue to remind everyone involved as you march forward.  Months later, hopefully after a successfully executed campaign, be sure to remind the team that you worked on this initiative or project because of their survey feedback.
 
 Don’t continue to support the status quo of “blindly rebooting servers” with your team.  If you have proper instrumentation of health signals in your team, you should be able to spot areas of improvement.
 Some examples of "instrumentation in leadership” can include:
 1. Productive 1:1 meetings (at least every 2 weeks)
 2. Patterns in retrospective
-3. GitHub metrics (see GitPrime)
+3. GitHub metrics - see [Flow (GitPrime)](https://www.pluralsight.com/product/flow)
 4. Bug reports
 5. Patterns in email or Slack conversations
 6. Demands of on-call
@@ -177,7 +177,7 @@ Disseminate what your team is working on, on a regular basis.  You likely work w
 2. Seek external eyes for validation and review
 3. Provide equal access to knowledge
 
-There are a lot of managers who keep their heads down with their eyes focused on initiatives.  You need to look up and look around once in awhile and outwardly listen and speak to a broader community.
+There are some managers who keep their heads down with their eyes focused on initiatives.  You need to look up and look around once in awhile and outwardly listen and speak to a broader community.
 
 Don’t rely on a single email to inform.  Most people have a crazy number of email filters, emails get filled away, unread, and knowledge is lost.  If you are counting on an email to keep people up-to-date, you are living in 1999.  Directly Slacking with people is the best way to get information out there when you cannot meet in person.  You need to treat every communication as a marketing campaign.  It is not a fire-and-forget, but a fire-and-follow-up model.  [Humans have many information beams that hit their short-term memory](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two), you need to acknowledge this and revisit your information dissemination on a frequent basis to convert it into long-term memory.  [Track your impact by using Confluence](https://marketplace.atlassian.com/apps/28637/viewtracker-analytics-for-confluence?hosting=server&tab=overview), or other means to know who has read your documentation.  This will help you gauge how successful your information campaign was.
 
@@ -185,5 +185,6 @@ Keep a changelog.  Version your communication in the same way that GitHub does. 
 
 Treat information flow as continuous.  Don’t wait until the end of the month, share what you know, when you know it.  Allow for people to self-select the information they receive, don’t dam the river of information.  “Trickle this down to your teams” isn’t effective, especially if the recipient doesn’t stay on top of their email or they are on vacation.  Blast information continuously to people who will care about it.  Use distribution lists with subscribe and unsubscribe features so that people can self-elect to receive different kinds of information, send that same email information to the corresponding Slack channel(s).  Remind *everyone* on regular intervals how they can keep up-to-date.
 
-
 Find the right periodicity for your periodicals.  [Chunk information together](https://en.wikipedia.org/wiki/Chunking_(psychology)), don’t spam, and allow for information discovery.  Look to kill emails that hold no value, specifically look at non-human emails that your team receives to understand why they exist and if they can be removed.  Your goal as a leader is to improve the signal-to-noise ratio of communication to your team.  Look to recommend digests, combining multiple emails, or splitting out communications to different channels.
+
+Forwarding an email with "FYI" does not help your team.  Summarize the key points from the email that you want everyone to be aware of.  By you taking the time to summarize, you reduce the total time that is lost reading and interpreting the email (e.g. 2 minutes to read times 10 people is 20 minutes - if you summarize that may be 30 seconds to read, with 10 people, that now is 5 total minutes instead of 20).  Within your forward, link to documents for more information.  Before you forward, ask refining questions you think your team would ask to the author, then once you have all of the ducks in a row, forward to your team.
