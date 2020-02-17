@@ -126,7 +126,15 @@ My motivation for this section was inspired by this TED talk [How to build a com
 > 
 > Dalio, Ray. Principles: Life and Work (p. 323). Simon & Schuster.
 
+
 Leadership through transparency creates an environment where people are authentic, information is quick and effectively shared.  With transparency comes reciprocal trust where everyone has an equal priority to the same information.  Every employee has an equal right to information and knowledge.
+
+Knowledge is power.  [Adam Grant notes that](https://www.forbes.com/sites/johnbaldoni/2019/02/07/adam-grant-power-shared-is-power-multiplied/#1c5dfa6771c0) power comes from a collective, not from a specific individual.  Leaders concerned with power and authority [need to realize that trust and transparency](https://www.forbes.com/sites/glennllopis/2012/09/10/5-powerful-things-happen-when-a-leader-is-transparent/) is what creates a great workplace.
+
+> Leaders must remind themselves and advise others that to achieve the new American Dream requires one thing that is certain:  you must balance knowledge (the head) with wisdom (the heart).   It’s no longer just about what you know, but what you do with what you know.  In the new American economy, it’s about transparency, trust, opening up your heart and leading with kindness.
+>
+> [Glenn Llopis](https://www.forbes.com/sites/glennllopis/2012/09/03/why-most-people-will-never-achieve-the-american-dream/)
+
 
 
 ## Effective Authenticity
