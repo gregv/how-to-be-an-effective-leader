@@ -58,6 +58,9 @@ Seek first to understand.
 Get into the details of what your team does to understand strengths and opportunities.  Do not rely on hear-say, but
 value 360 feedback.  Managers who praise unchallenging and non-technical outcomes look bad when technical people realize
 that work was not challenging.  
+
+Stray away from giving "single point in time" feedback that seems nit-picky.  Look for behavioral trends (and three points is a trend) and give holistic feedback to build strength amongst your team or the people you work with.  Treat feedback as a precision tool pointed at events, artifacts, things that were created, communication, behaviors, use some [Johari](https://en.wikipedia.org/wiki/Johari_window) mindset to uncover blindspots.
+
 Calibrate your understanding of technical challenges by asking questions and reviewing documentation.  Be able to accurately
 and intelligently speak about what your team has done and the work it plans to do.
 
