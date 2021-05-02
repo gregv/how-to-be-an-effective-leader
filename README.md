@@ -26,6 +26,7 @@ Learn how you best learn specific things (e.g. Udemy, YouTube, TED Talks, hackat
 Make and teach things to prove you have learned. "Taking a class" without an outcome is not learning.
 
 # Dos and Don'ts
+- Do take action with the things you learn, don't just post that you read books or finished a course, post about the actions you took from the books/podcasts/videos/training you took. Take notes, make a plan, block time in your calendar to practice [ref](https://medium.com/the-mission/how-to-remember-and-take-action-on-what-you-read-c43b309edfbc)
 - Do not recommend podcasts, do recommend specific podcast episodes and the outcome you received that you think 
 others would benefit from.  Quote the podcast directly.
 - Do not continue to have unproductive meetings.  Do not have status meetings.
